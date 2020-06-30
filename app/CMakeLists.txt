@@ -21,5 +21,6 @@ target_link_libraries(myapp
   calc
 )
 
+install(TARGETS myapp)
 
 
